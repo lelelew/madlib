@@ -6,7 +6,7 @@ import Madlib from "./Madlib";
 const App: React.FC = () => {
   return (
     <div className="App">
-      <Madlib message="I'm a Madlib" />
+      <Madlib story="A long time ago, in a ADJ NOUN VERB place NOUN NOUN." />
     </div>
   );
 };
